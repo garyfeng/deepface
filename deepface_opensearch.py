@@ -1,0 +1,1 @@
+# https://sefiks.com/2020/11/27/large-scale-face-recognition-with-elasticsearch/
